@@ -9,7 +9,7 @@ import org.apache.commons.text.WordUtils;
 /**
  * Utility for converting name of person.
  *
- * @author titus
+ * @author Karar
  * @since 2020-01-20
  */
 public class NameUtil {
